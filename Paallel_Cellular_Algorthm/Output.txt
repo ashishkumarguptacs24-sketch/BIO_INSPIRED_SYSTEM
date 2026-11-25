@@ -1,0 +1,39 @@
+PS C:\Users\admin\Desktop\New folder\Paallel_Cellular_Algorthm> & C:/Users/admin/AppData/Local/Programs/Python/Python314/python.exe "c:/Users/admin/Desktop/New folder/Paallel_Cellular_Algorthm/power_System_and_Smart_Gird.py"
+Iter 01 | Fuel Cost: $ 8194.90/hr | Dispatch (MW) -> G1: 383.31, G2: 335.47, G3: 131.21
+Iter 02 | Fuel Cost: $ 8194.68/hr | Dispatch (MW) -> G1: 400.67, G2: 334.03, G3: 115.30
+Iter 03 | Fuel Cost: $ 8194.36/hr | Dispatch (MW) -> G1: 391.59, G2: 335.36, G3: 123.05
+Iter 04 | Fuel Cost: $ 8194.36/hr | Dispatch (MW) -> G1: 391.59, G2: 335.36, G3: 123.05
+Iter 05 | Fuel Cost: $ 8194.36/hr | Dispatch (MW) -> G1: 391.59, G2: 335.36, G3: 123.05
+Iter 06 | Fuel Cost: $ 8194.36/hr | Dispatch (MW) -> G1: 391.59, G2: 335.36, G3: 123.05
+Iter 07 | Fuel Cost: $ 8194.36/hr | Dispatch (MW) -> G1: 393.71, G2: 334.24, G3: 122.05
+Iter 08 | Fuel Cost: $ 8194.36/hr | Dispatch (MW) -> G1: 392.74, G2: 334.96, G3: 122.30
+Iter 09 | Fuel Cost: $ 8194.36/hr | Dispatch (MW) -> G1: 392.74, G2: 334.96, G3: 122.30
+Iter 10 | Fuel Cost: $ 8194.36/hr | Dispatch (MW) -> G1: 393.19, G2: 334.69, G3: 122.12
+Iter 11 | Fuel Cost: $ 8194.36/hr | Dispatch (MW) -> G1: 393.19, G2: 334.69, G3: 122.12
+Iter 12 | Fuel Cost: $ 8194.36/hr | Dispatch (MW) -> G1: 393.19, G2: 334.69, G3: 122.12
+Iter 13 | Fuel Cost: $ 8194.36/hr | Dispatch (MW) -> G1: 393.19, G2: 334.69, G3: 122.12
+Iter 14 | Fuel Cost: $ 8194.36/hr | Dispatch (MW) -> G1: 393.19, G2: 334.69, G3: 122.12
+Iter 15 | Fuel Cost: $ 8194.36/hr | Dispatch (MW) -> G1: 393.19, G2: 334.69, G3: 122.12
+Iter 16 | Fuel Cost: $ 8194.36/hr | Dispatch (MW) -> G1: 393.19, G2: 334.69, G3: 122.12
+Iter 17 | Fuel Cost: $ 8194.36/hr | Dispatch (MW) -> G1: 393.19, G2: 334.69, G3: 122.12
+Iter 18 | Fuel Cost: $ 8194.36/hr | Dispatch (MW) -> G1: 393.19, G2: 334.69, G3: 122.12
+Iter 19 | Fuel Cost: $ 8194.36/hr | Dispatch (MW) -> G1: 393.19, G2: 334.69, G3: 122.12
+Iter 20 | Fuel Cost: $ 8194.36/hr | Dispatch (MW) -> G1: 393.19, G2: 334.69, G3: 122.12
+Iter 21 | Fuel Cost: $ 8194.36/hr | Dispatch (MW) -> G1: 393.19, G2: 334.69, G3: 122.12
+Iter 22 | Fuel Cost: $ 8194.36/hr | Dispatch (MW) -> G1: 393.19, G2: 334.69, G3: 122.12
+Iter 23 | Fuel Cost: $ 8194.36/hr | Dispatch (MW) -> G1: 393.19, G2: 334.69, G3: 122.12
+Iter 24 | Fuel Cost: $ 8194.36/hr | Dispatch (MW) -> G1: 393.19, G2: 334.69, G3: 122.12
+Iter 25 | Fuel Cost: $ 8194.36/hr | Dispatch (MW) -> G1: 393.19, G2: 334.69, G3: 122.12
+Iter 26 | Fuel Cost: $ 8194.36/hr | Dispatch (MW) -> G1: 393.19, G2: 334.69, G3: 122.12
+Iter 27 | Fuel Cost: $ 8194.36/hr | Dispatch (MW) -> G1: 393.19, G2: 334.69, G3: 122.12
+Iter 28 | Fuel Cost: $ 8194.36/hr | Dispatch (MW) -> G1: 393.19, G2: 334.69, G3: 122.12
+Iter 29 | Fuel Cost: $ 8194.36/hr | Dispatch (MW) -> G1: 393.19, G2: 334.69, G3: 122.12
+Iter 30 | Fuel Cost: $ 8194.36/hr | Dispatch (MW) -> G1: 393.19, G2: 334.69, G3: 122.12
+
+--- Optimal Smart Grid Dispatch ---
+Generator 1: 393.19 MW
+Generator 2: 334.69 MW
+Generator 3: 122.12 MW
+Total Power: 850.00 MW (Demand: 850.0 MW)
+Minimum Fuel Cost: $8194.36/hr
+PS C:\Users\admin\Desktop\New folder\Paallel_Cellular_Algorthm> 
